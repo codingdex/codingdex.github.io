@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-hacker
+title: codingdex
+---
+
 {{ page.title }}
 
 ## Welcome to codingdex 
