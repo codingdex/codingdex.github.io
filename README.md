@@ -1,6 +1,3 @@
----
-title : "codingdex"
----
 
 ## Welcome to codingdex
 
