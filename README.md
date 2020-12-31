@@ -1,5 +1,5 @@
 ---
-title: "codingdex"
+title: codingdex
 ---
 
 {{ page.title }}
